@@ -1,0 +1,11 @@
+cn\comeback\mapper\TbOrderShippingMapper.class
+cn\comeback\mapper\TbItemDescMapper.class
+cn\comeback\mapper\TbOrderItemMapper.class
+cn\comeback\mapper\TbItemParamItemMapper.class
+cn\comeback\mapper\TbContentCategoryMapper.class
+cn\comeback\mapper\TbItemParamMapper.class
+cn\comeback\mapper\TbUserMapper.class
+cn\comeback\mapper\TbContentMapper.class
+cn\comeback\mapper\TbItemMapper.class
+cn\comeback\mapper\TbOrderMapper.class
+cn\comeback\mapper\TbItemCatMapper.class

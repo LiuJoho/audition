@@ -24,7 +24,6 @@
 		<module>cb-manager-dao</module>
 		<module>cb-manager-interface</module>
 		<module>cb-manager-service</module>
-		<module>cb-manager-web</module>
 	</modules>
 	
 	<!-- 配置tomcat插件 -->
